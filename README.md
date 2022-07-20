@@ -1,1 +1,3 @@
-Day 5 of figuring out how React works
+#Task App
+
+Testing use of class components instead of functional components to get a better understanding of state and legacy versions of React.
